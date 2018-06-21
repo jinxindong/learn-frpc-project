@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/frpc-center/frpc-center.iml" filepath="$PROJECT_DIR$/frpc-center/frpc-center.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frpc-core/frpc-core.iml" filepath="$PROJECT_DIR$/frpc-core/frpc-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn-frpc-project.iml" filepath="$PROJECT_DIR$/learn-frpc-project.iml" />
+    </modules>
+  </component>
+</project>
